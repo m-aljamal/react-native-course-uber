@@ -1,4 +1,4 @@
-import { useNavigation } from "@react-navigation/core";
+import { useNavigation } from "@react-navigation/native";
 import React from "react";
 import { FlatList, Text, TouchableOpacity, View, Image } from "react-native";
 import { Icon } from "react-native-elements";
